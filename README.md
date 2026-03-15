@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0061-rotate-list) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
