@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1929-concatenation-of-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Memoization
 |  |
