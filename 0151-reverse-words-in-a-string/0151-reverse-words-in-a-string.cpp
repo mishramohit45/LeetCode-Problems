@@ -10,6 +10,7 @@ public:
         int l=0;
         while(i<n)
         {
+            //jb tk space ni ayegga tb tk bdhyenge i ko
         while(i<n && s[i]!=' ')
         {
             s[r]=s[i];
