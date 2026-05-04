@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1903-largest-odd-number-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1903-largest-odd-number-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search Tree
 |  |
 | ------- |
