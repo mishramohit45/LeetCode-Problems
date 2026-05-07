@@ -1,18 +1,15 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char,int>s1;
-        unordered_map<char,int>s2;
-        if(s.length()!=t.length())
+        //Anagram means same number of character in both string
+        if(s.size()!=t.size()) return false;
+        vector<int>sfreq(26,0);
+        vector<int>tfreq(26,0);
+        for(int i=0;i<s.size();i++)
         {
-            return false;
+            sfreq[s[i]-'a']++;
+            tfreq[t[i]-'a']++;
         }
-        for(int i=0;i<s.length();i++)
-        {
-            s1[s[i]]++;
-            s2[t[i]]++;
-        }
-
-        return s1==s2;
+        return sfreq==tfreq;       
     }
 };
