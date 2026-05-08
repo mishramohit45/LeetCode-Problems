@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Merge Sort
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
