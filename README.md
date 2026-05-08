@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
