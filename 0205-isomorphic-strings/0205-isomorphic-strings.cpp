@@ -7,7 +7,7 @@ public:
         {
             char a=s[i];
             char b=t[i];
-
+        //forward Mapping
             if(s1.count(a))
             {
                 if(s1[a]!=b)
@@ -15,6 +15,7 @@ public:
                     return false;
                 }
             }
+        //Reverse Mapping
             if(t1.count(b))
             {
                 if(t1[b]!=a)
@@ -22,8 +23,8 @@ public:
                     return false;
                 }
             }
-            s1[a]=b;
-            t1[b]=a;
+            s1[a]=b;        //mp1 = { p -> t }
+            t1[b]=a;        //mp2 = { t -> p }
         }
         return  true;
     }
