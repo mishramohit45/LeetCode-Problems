@@ -5,21 +5,28 @@ public:
 
         unordered_map<int,int> mp;
 
+        // Count frequency
+        for(int i = 0; i < nums.size(); i++)
+        {
+            mp[nums[i]]++;
+        }
+
+        // Find maximum frequency
         int maxi = 0;
+
+        for(auto it : mp)
+        {
+            maxi = max(maxi, it.second);
+        }
+
+        // Count total elements having max frequency
         int ans = 0;
 
-        for(int x : nums)
+        for(auto it : mp)
         {
-            mp[x]++;
-
-            if(mp[x] > maxi)
+            if(it.second == maxi)
             {
-                maxi = mp[x];
-                ans = maxi;
-            }
-            else if(mp[x] == maxi)
-            {
-                ans += maxi;
+                ans += it.second;
             }
         }
 
