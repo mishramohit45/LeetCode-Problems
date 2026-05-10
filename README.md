@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Tree
 |  |
 | ------- |
