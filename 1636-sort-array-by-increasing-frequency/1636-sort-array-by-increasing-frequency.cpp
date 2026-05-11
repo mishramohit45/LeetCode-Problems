@@ -12,13 +12,16 @@ public:
         {
             r1.push_back({it.second,it.first});
         }
-    sort(r1.begin(), r1.end(), [](pair<int, int>& a, pair<int, int>& b) {
-    // If frequencies are the same, sort by value descending
-    if (a.first == b.first) {
-        return a.second > b.second; 
-    }
-    return a.first < b.first; 
-});
+    auto lambda = [&](pair<int, int>& p1, pair<int, int>& p2) {
+            // Rule 1: If frequencies are the same, sort by value descending
+            if (p1.first == p2.first) {
+                return p1.second > p2.second;
+            }
+            // Rule 2: Otherwise, sort by frequency ascending
+            return p1.first < p2.first;
+        };
+        
+        sort(begin(r1), end(r1), lambda);
         vector<int>res;
         for(auto it:r1)
         {
