@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1929-concatenation-of-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2418-sort-the-people](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2418-sort-the-people](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2418-sort-the-people) |
 ## Counting Sort
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1903-largest-odd-number-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search Tree
 |  |
