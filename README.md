@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2418-sort-the-people](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
