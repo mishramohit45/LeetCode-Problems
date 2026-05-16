@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0342-power-of-four) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0509-fibonacci-number) |
