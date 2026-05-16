@@ -21,7 +21,7 @@ public:
         {
             if(upper[i]==1 && lower[i]==1)
             {
-                res=i+'A';
+                res = string(1, i + 'A');
             }
         }
         return res;
