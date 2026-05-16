@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Linked List
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
