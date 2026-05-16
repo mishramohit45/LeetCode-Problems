@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0796-rotate-string) |
