@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0015-3sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0190-reverse-bits) |
