@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1544-make-the-string-great](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1544-make-the-string-great](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
