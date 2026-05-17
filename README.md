@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0038-count-and-say) |
