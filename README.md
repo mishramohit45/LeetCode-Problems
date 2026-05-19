@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1345-jump-game-iv) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1534-count-good-triplets](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1534-count-good-triplets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1534-count-good-triplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Monotonic Stack
