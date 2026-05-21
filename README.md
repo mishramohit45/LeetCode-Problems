@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2418-sort-the-people](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
 |  |
 | ------- |
