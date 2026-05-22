@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1929-concatenation-of-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2418-sort-the-people](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
