@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0896-monotonic-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1306-jump-game-iii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1306-jump-game-iii) |
