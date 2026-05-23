@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0456-132-pattern) |
+| [0704-binary-search](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2540-minimum-common-value) |
