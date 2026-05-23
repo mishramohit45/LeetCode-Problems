@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
