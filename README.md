@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
