@@ -2,18 +2,12 @@ class Solution {
 public:
     bool checkIfPangram(string s) {
         int n=s.size();
-        vector<int>freq(26,0);
+        set<int>st;
         for(int i=0;i<n;i++)
         {
-            freq[s[i]-'a']++;
+            st.insert(s[i]);
         }
-        for(int i=0;i<26;i++)
-        {
-            if(freq[i]==0)
-            {
-                return false;
-            }
-        }
-        return true;
+        if(st.size()==26) return true;
+        else return false;
     }
 };
