@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1345-jump-game-iv) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1534-count-good-triplets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
