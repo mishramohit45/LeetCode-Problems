@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0896-monotonic-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
