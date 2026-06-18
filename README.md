@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1306-jump-game-iii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1345-jump-game-iv) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/mishramohit45/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Binary Search
