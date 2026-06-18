@@ -14,8 +14,8 @@ public:
                 return false;
             }
             i++;
-            j--;
-        }
-        return true;
+            j--;  
+            }
+            return true;
     }
 };
