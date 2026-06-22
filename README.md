@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0190-reverse-bits) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
