@@ -11,14 +11,8 @@ public:
                 candidate=nums[i];
                 count=1;
             }
-            else if(candidate==nums[i])
-            {
-                count++;
-            }
-            else
-            {
-                count--;
-            }
+            else if(candidate==nums[i]) count++;
+            else count--;
         }
         return candidate;
     }
