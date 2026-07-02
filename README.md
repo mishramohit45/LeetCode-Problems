@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1306-jump-game-iii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1345-jump-game-iv) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mishramohit45/LeetCode-Problems/tree/master/1345-jump-game-iv) |
 ## Heap (Priority Queue)
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/mishramohit45/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
